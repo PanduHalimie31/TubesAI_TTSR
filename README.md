@@ -18,7 +18,7 @@ Inside the "bahan" folder, there are 5 tests that have been conducted along with
 - I used GitBash to run the whole project.
 - The photo named "ref" serves as the reference file, while "lr" represents the low-resolution file which is 4 times smaller in size compared to "ref".
 - The "ref" file used during my trials had a maximum size of 300KB, but for smooth testing purposes, the "ref" file I utilized was a maximum of 100KB in size with "lr" sized 4 times smaller.
-- I tried to run the project without Cuda but i can get it run, without knowing the reason why so i had to use Cuda to keep it running.
+- I tried to run the project without Cuda but i can't get it run, without knowing the reason why so i had to use Cuda to keep it running.
 
 # Test Result
 ![lr - low resolution](https://github.com/PanduHalimie31/TubesAI_TTSR/assets/85004246/b087952a-5409-4506-af22-44101e735ebe)
