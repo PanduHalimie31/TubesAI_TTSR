@@ -7,7 +7,7 @@ The steps of usage can be followed on [GitHub](https://github.com/researchmm/TTS
 1. Download and install [Python](https://www.python.org/downloads/), i use 3.11
 2. Install python packages `pip install opencv-python imageio`
 4. Download pre-trained model provided by Original TTSR Author [Google Drive](https://drive.google.com/drive/folders/1CTm-r3hSbdYVCySuQ27GsrqXhhVOS-qh?usp=sharing)
-5. Install [PyTorch, Torchvision with Cuda](https://pytorch.org/get-started/locally/). I used Cuda 12.1 with Nvidia GTX 1650 Ti
+5. Install [PyTorch and Torchvision with Cuda](https://pytorch.org/get-started/locally/). I used Cuda 12.1 with Nvidia GTX 1650 Ti
 6. Clone this repo by using `git clone https://github.com/PanduHalimie31/TubesAI_TTSR.git`
 7. Move the downloaded pre-trained model into the TTSR directory
 8. You may want to check and change the model_path in "test.sh" in this case, i don't change anything
