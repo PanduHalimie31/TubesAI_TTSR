@@ -27,4 +27,4 @@ Inside the "bahan" folder, there are 5 tests that have been conducted along with
 Thank you for the original Author [GitHub](https://github.com/researchmm/TTSR) for letting me used its project to let me learn more about Image Restoration AI as im nothing but a beginner.
 
 LinkedIn Profile:
-[Pandu Halimie P](https://www.linkedin.com/in/pandu-halimie-prahatama-53818a19a/)
+[Pandu Halimie P](https://www.linkedin.com/in/pandu-halimie-prahatama-53818a19a/), [Naura Nafisah](https://www.linkedin.com/in/naura-nafisah-236118224/), [Ananda Ayu C](https://www.linkedin.com/in/ananda-ayu-chellsya-5813a62a7/)
